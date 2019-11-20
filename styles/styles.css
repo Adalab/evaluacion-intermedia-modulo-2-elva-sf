@@ -1,0 +1,40 @@
+.title {
+    color: grey;
+}
+.subTitle{
+    color: grey;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+}
+.form__greyField{
+
+}
+.form__inputGrey{
+    background-color: grey;
+    min-width: 250px;
+    margin: 5px 0;
+}
+.button{
+    background-color: aqua;
+    color: white;
+    width: 75px;
+    margin: 5px;
+}
+.form__clueField{
+    margin: 5px 0;
+}
+.form__inputClue{
+    min-width: 250px;
+    margin: 5px 0;
+    padding:5px;
+}
+.form__numberField{
+    margin: 5px 0;
+}
+.form__inputNumber{
+    min-width: 250px;
+    margin: 5px 0;
+    padding:5px;
+}
